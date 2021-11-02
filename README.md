@@ -1,14 +1,14 @@
 # Assignment 3_B
 ## 1-Minimap | 2-Splitscreem
 
-*Minimap:*
+**Minimap:**
 
 In this task we created a game for 1 player with a minimap.
 
 Move with the arrow keys.
 
 
-*Splitscreen:*
+**Splitscreen:**
 
 Follow the info and instructions on the screen.
 
