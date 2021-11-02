@@ -8,7 +8,6 @@ In this task we created a game for 1 player with a minimap.
 Move with the arrow keys.
 
 <br />
-<br />
 
 **Splitscreen:**
 
@@ -28,5 +27,10 @@ Player 2: Move with "RIGHT" or "LEFT" arrows.
 
 Play the game on Itch.io:
 https://littlegamers2021.itch.io/hw01-b-splitscreen
-  
+
+## Components
+**Minimap_Walk -** Helps the player to walk around with the arrow keys. [Source Code.](2A_Minimap/Assets/walk.cs)
+
+**Splitscreen_Walk -** Helps the player to walk around with the arrow keys. [Source Code.](2B_Splitscreen/Assets/walk.cs)
+
 ## **Have Fun!**
