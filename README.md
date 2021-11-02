@@ -7,7 +7,8 @@ In this task we created a game for 1 player with a minimap.
 
 Move with the arrow keys.
 
-
+<br />
+<br />
 
 **Splitscreen:**
 
