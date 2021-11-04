@@ -5,7 +5,11 @@
 
 In this task we created a game for 1 player with a minimap.
 
+Instructions:
+
 Move with the arrow keys.
+
+[Source Code.](2A_Minimap)
 
 <br />
 
@@ -15,7 +19,6 @@ Follow the info and instructions on the screen.
 
 Make your players run in the woods.
 
-[Source Code.](2A_Minimap)
 
 Instructions:
 
